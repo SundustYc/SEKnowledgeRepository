@@ -1,6 +1,6 @@
-# Number&Math类常用方法
+# Number & Math类常用方法
 
-## Number 类常用方法
+## Number类常用方法
 
 Java 的 `Number` 是一个抽象类，`Integer`、`Long`、`Double` 等都是它的子类。以下是一些常用的方法：
 
@@ -137,5 +137,5 @@ System.out.println(Math.log(Math.E));  // 1.0
 
 ```java
 System.out.println(Math.PI);   // 3.141592653589793
-System.out.println(Math.E);    // 2.718281828459045
+System.out.println(Math.E  );    // 2.718281828459045
 ```
